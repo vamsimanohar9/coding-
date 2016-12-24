@@ -1,0 +1,7 @@
+#iinclude<stdio.h>
+#include<conio.h>
+main()
+{
+printf("welcome to c");
+getch()
+}
