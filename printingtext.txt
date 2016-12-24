@@ -5,3 +5,5 @@ main()
 printf("welcome to c");
 getch()
 }
+
+after editing this/
